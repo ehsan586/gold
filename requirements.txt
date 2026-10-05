@@ -1,0 +1,2 @@
+# ASTRA final build uses the Python standard library for the default MT4 read-only bridge.
+# Optional legacy MT5 connector: MetaTrader5
