@@ -1,0 +1,652 @@
+2026-10-05 20:44:58,105 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,110 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,110 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,113 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,113 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,117 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,118 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,120 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,120 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,130 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,130 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,133 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,133 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,135 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,135 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,138 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,138 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,141 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,141 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,144 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,144 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,147 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,147 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,149 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,150 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,152 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,152 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,155 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,155 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,158 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,158 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,161 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,161 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,163 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,164 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,166 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,166 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,169 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,169 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,173 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,173 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,175 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,176 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,178 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,179 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,181 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,182 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,182 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,185 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,185 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,189 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,189 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,192 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,192 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,195 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,195 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,197 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,198 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,200 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,200 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,204 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,204 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,207 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,207 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,210 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,210 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,212 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,212 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,215 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,215 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,219 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,219 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,222 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,222 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,226 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,226 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,230 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,231 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,235 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,236 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,242 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,257 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,261 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,262 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,266 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,266 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,270 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,270 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,277 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,278 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,281 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,281 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,284 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,284 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,286 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,286 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,289 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,289 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,291 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,291 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,295 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,295 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,299 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,299 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,302 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,302 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,305 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,305 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,307 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,307 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,311 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,311 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,313 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,314 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,316 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,316 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,319 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,319 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,322 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,322 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,325 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,325 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,328 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,328 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,331 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,331 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,333 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,334 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,337 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,337 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,340 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,340 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,344 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,344 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,347 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,347 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,350 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,350 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,353 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,353 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,356 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,357 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,359 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,359 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,362 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,362 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,364 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,365 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,367 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,367 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,373 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,373 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,376 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,376 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,378 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,379 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,381 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,382 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,384 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,385 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:44:58,388 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:44:58,989 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:45:03,118 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:45:03,597 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:45:08,182 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:45:08,253 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:45:13,234 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:45:13,307 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:45:18,257 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:45:18,326 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:45:23,273 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:45:23,351 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:45:28,304 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:45:28,360 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:45:33,322 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:45:33,383 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:45:38,362 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:45:38,428 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:45:43,425 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:45:43,491 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:45:48,465 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:45:48,533 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:45:53,517 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:45:53,587 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,942 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,944 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,951 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,951 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,956 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,956 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,960 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,960 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,964 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,964 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,967 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,967 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,970 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,970 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,973 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,973 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,976 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,976 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,979 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,982 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,985 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,986 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,989 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,989 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,992 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,992 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,994 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,994 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:02,997 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:02,997 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,000 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,001 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,003 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,003 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,006 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,006 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,009 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,009 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,011 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,011 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,015 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,015 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,018 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,018 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,021 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,021 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,024 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,024 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,027 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,027 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,030 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,031 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,033 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,034 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,036 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,036 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,039 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,039 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,042 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,042 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,045 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,045 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,048 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,048 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,051 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,052 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,056 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,056 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,059 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,059 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,062 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,062 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,065 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,065 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,068 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,068 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,071 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,071 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,074 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,074 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,077 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,091 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,095 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,095 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,098 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,098 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,101 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,101 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,103 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,104 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,107 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,107 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,109 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,110 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,112 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,112 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,115 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,115 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,117 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,118 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,122 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,122 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,125 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,125 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,130 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,130 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,135 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,135 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,138 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,139 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,142 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,143 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,145 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,146 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,149 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,150 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,153 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,154 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,158 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,159 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,165 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,165 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,168 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,168 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,171 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,171 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,174 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,174 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,177 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,177 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,181 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,181 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,185 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,185 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,188 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,189 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,194 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,195 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,199 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,199 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,206 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,206 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,212 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,212 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,216 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,216 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,221 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,222 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,226 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,227 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,235 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,235 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,240 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,240 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,245 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,245 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,248 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,249 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,255 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,256 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:03,268 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:03,744 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:07,957 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:08,018 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:13,022 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:13,087 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:18,038 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:18,098 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:23,038 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:23,108 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:28,114 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:28,183 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:33,117 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:33,188 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:38,152 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:38,236 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:43,189 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:43,263 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:48,190 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:48,275 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:53,230 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:53,310 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:46:58,257 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:46:58,341 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:47:03,285 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:47:03,681 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:47:08,366 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:47:08,433 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:47:13,390 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:47:13,465 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:47:18,431 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:47:18,507 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:47:23,479 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:47:23,546 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:47:28,486 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:47:28,562 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:47:33,513 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:47:33,588 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:47:38,542 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:47:38,618 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:47:43,582 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:47:43,660 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:47:48,634 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:47:48,718 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:47:53,664 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:47:53,741 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:47:58,716 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:47:58,790 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:48:03,744 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:48:04,174 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:48:08,783 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:48:08,862 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:48:13,822 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:48:13,906 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:48:18,840 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:48:18,916 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:48:23,869 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:48:23,944 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:48:28,909 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:48:28,986 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:48:33,950 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:48:34,025 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:48:38,990 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:48:39,080 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:48:44,021 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:48:44,101 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:48:49,109 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:48:49,179 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:48:54,114 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:48:54,184 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:48:59,142 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:48:59,215 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:49:04,171 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:49:04,591 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:49:09,214 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:49:09,308 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:49:14,229 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:49:14,305 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:49:19,258 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:49:19,347 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:49:24,274 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:49:24,350 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:49:29,314 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:49:29,387 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:49:34,330 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:49:34,405 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:49:39,358 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:49:39,432 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:49:44,374 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:49:44,451 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:49:49,428 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:49:49,499 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:49:54,457 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:49:54,529 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:49:59,498 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:49:59,585 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:50:04,534 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:50:05,266 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:50:09,575 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:50:09,647 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:50:14,602 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:50:14,669 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:50:19,625 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:50:19,702 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:50:24,652 INFO goldbot.state: IDLE -> PAUSED: dashboard pause
+2026-10-05 20:59:01,233 INFO goldbot.state: PAUSED -> IDLE: dashboard resume
+2026-10-05 20:59:03,250 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:59:03,337 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:59:08,300 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:59:08,648 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:59:13,329 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:59:13,394 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:59:18,346 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:59:18,414 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:59:23,362 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:59:23,427 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:59:28,391 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:59:28,464 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:59:33,419 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:59:33,491 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:59:38,450 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:59:38,525 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:59:43,498 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:59:43,570 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:59:48,526 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:59:48,598 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:59:53,560 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:59:53,636 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 20:59:58,588 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 20:59:58,666 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:00:03,641 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:00:04,066 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:00:08,671 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:00:08,997 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:00:13,726 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:00:13,801 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:00:18,753 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:00:18,834 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:00:23,795 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:00:23,923 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:00:28,846 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:00:28,926 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:00:33,874 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:00:33,957 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:00:38,903 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:00:38,981 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:00:43,933 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:00:44,008 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:00:48,985 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:00:49,067 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:00:54,011 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:00:54,082 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:00:59,026 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:00:59,105 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:01:04,083 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:01:04,147 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:01:09,124 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:01:09,441 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:01:14,129 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:01:14,205 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:01:19,176 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:01:19,256 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:01:24,193 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:01:24,273 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:01:29,242 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:01:29,339 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:01:34,271 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:01:34,356 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:01:39,299 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:01:39,386 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:01:44,327 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:01:44,399 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:01:49,359 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:01:49,436 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:01:54,388 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:01:54,462 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:01:59,405 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:01:59,481 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:02:04,439 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:02:04,512 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:02:09,491 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:02:09,838 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:02:14,517 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:02:14,589 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:02:19,547 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:02:19,615 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:02:24,564 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:02:24,642 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:02:29,602 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:02:29,672 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:02:34,655 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:02:34,724 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:02:39,683 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:02:39,759 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:02:44,699 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:02:44,776 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:02:49,739 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:02:49,820 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:02:54,778 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:02:54,859 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:02:59,784 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:02:59,861 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:03:04,822 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:03:04,895 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:03:09,839 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:03:10,174 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:03:14,860 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:03:14,933 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:03:19,895 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:03:19,962 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:03:24,895 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:03:24,965 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:03:29,959 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:03:30,030 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:03:35,027 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:03:35,090 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:03:40,056 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:03:40,118 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:03:45,080 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:03:45,150 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:03:50,108 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:03:50,179 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:03:55,137 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:03:55,209 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:04:00,165 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:04:00,241 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:04:05,194 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:04:05,265 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:04:10,211 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:04:10,511 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:04:15,252 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:04:15,322 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:04:20,280 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:04:20,349 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:04:25,309 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:04:25,376 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:04:30,337 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:04:30,404 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:04:35,384 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:04:35,457 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:04:40,412 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:04:40,484 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:04:45,429 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:04:45,498 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:04:50,481 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:04:50,549 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:04:55,491 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:04:55,552 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:05:00,502 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:05:00,569 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:05:05,543 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:05:06,046 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:05:10,601 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:05:10,966 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:05:15,616 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:05:15,684 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:05:20,651 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:05:20,714 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:05:25,686 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:05:25,761 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:05:30,719 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:05:30,787 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:05:35,734 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:05:35,807 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:05:40,762 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:05:40,830 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:05:45,824 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:05:45,897 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:05:50,841 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:05:50,923 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:05:55,870 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:05:55,950 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:06:00,901 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:06:00,976 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:06:05,927 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:06:06,027 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:06:10,955 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:06:11,364 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:06:16,033 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:06:16,102 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:06:21,062 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:06:21,135 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:06:26,099 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:06:26,175 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:06:31,127 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:06:31,205 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:06:36,154 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:06:36,229 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:06:41,206 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:06:41,284 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:06:46,264 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:06:46,342 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:06:51,292 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:06:51,367 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:06:56,327 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:06:56,391 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:07:01,392 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:07:01,487 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:07:06,431 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:07:06,526 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:07:11,462 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:07:11,883 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:07:16,499 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:07:16,601 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:07:21,556 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:07:21,638 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal
+2026-10-05 21:07:26,596 INFO goldbot.state: IDLE -> ANALYZING: analysis cycle
+2026-10-05 21:07:26,680 INFO goldbot.state: ANALYZING -> IDLE: no actionable signal

@@ -1,0 +1,5 @@
+# HTTPS reverse proxy for the dashboard (install Caddy on the VPS). Replace the domain.
+# Keep GOLDBOT_API_HOST=127.0.0.1 so ONLY Caddy can reach the bot.
+bot.example.com {
+    reverse_proxy 127.0.0.1:8787
+}

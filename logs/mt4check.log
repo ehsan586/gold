@@ -1,0 +1,24 @@
+account 16641283 demo=True leverage=1:500 balance=3000.0 USD
+symbol: XAUUSD
+{
+  "name": "XAUUSD",
+  "digits": 2,
+  "point": 0.01,
+  "tick_size": 0.01,
+  "tick_value": 1.0,
+  "contract_size": 100.0,
+  "volume_min": 0.01,
+  "volume_max": 50.0,
+  "volume_step": 0.01,
+  "stops_level": 0,
+  "freeze_level": 0,
+  "trade_allowed": false,
+  "currency_profit": "USD"
+}
+tick: Tick(time=1791231359.0, bid=4129.68, ask=4130.05) spread points: 37.0
+M1 candles: 300
+M5 candles: 300
+M15 candles: 300
+H1 candles: 300
+H4 candles: 300
+OK - MT4 read-only feed works; execution remains SIMULATION.

@@ -1,0 +1,6 @@
+EXECUTION MODE: SIMULATION - virtual account only; no real orders are sent.
+MARKET DATA SOURCE: MT4
+
+Dashboard: http://127.0.0.1:8787/   (enter your API token)
+Ctrl+C to stop.
+
